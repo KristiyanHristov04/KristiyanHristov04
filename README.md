@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔹I'm currently working on myself🔹<br>🔹I'm currently learning C# Fundamentals in SoftUni🔹<br>🔹How to reach me: dilarcheto1993@gmail.com🔹<br>🔹Fun fact: Earth is not flat🔹
 
+![sultan-alrefaei-programmer](https://user-images.githubusercontent.com/92588334/175947310-d3457489-4deb-4437-80a5-9cc1cee198d2.gif)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/dilarcheto1993k#3591) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCN9oJOkyKOxw3MRs7LkkNhQ) 
