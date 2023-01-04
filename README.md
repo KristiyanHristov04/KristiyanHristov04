@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔹I'm currently working on myself🔹<br>🔹I'm currently learning C# Advanced in [SoftUni](https://softuni.bg/)🔹<br>🔹How to reach me: kristiyan_hristov04@abv.bg🔹<br>🔹Fun fact: Earth is not flat🔹
+🔹I'm currently working on myself🔹<br>🔹I'm currently learning C# Web Development in [SoftUni](https://softuni.bg/)🔹<br>🔹How to reach me: kristiyan_hristov04@abv.bg🔹<br>🔹Fun fact: Earth is not flat🔹
 
 ![sultan-alrefaei-programmer](https://user-images.githubusercontent.com/92588334/175947310-d3457489-4deb-4437-80a5-9cc1cee198d2.gif)
 
