@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔹I'm currently working on myself🔹<br>🔹I'm currently learning C# Web Development in [SoftUni](https://softuni.bg/)🔹<br>🔹How to reach me: kristiyan_hristov04@abv.bg🔹<br>🔹Fun fact: Earth is not flat🔹
 
-<img src="https://softuni.bg/certificates/certificates/converttoimage/121332?code=e33cdfe6" alt="Programming Basics With C# Certificate" width="500" height="500">
-
 ![sultan-alrefaei-programmer](https://user-images.githubusercontent.com/92588334/175947310-d3457489-4deb-4437-80a5-9cc1cee198d2.gif)
 
 ## 🌐 Socials:
