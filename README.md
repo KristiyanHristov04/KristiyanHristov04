@@ -14,15 +14,11 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,react,bootstrap,materialui,postgres" />
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,vscode,visualstudio,postman,docker,git,bash,linux,windows" />
-  </a>
 </p>
 
 # 📊 GitHub Stats:
