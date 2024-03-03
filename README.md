@@ -21,6 +21,10 @@
     <img src="https://skillicons.dev/icons?i=vite,vscode,visualstudio,postman,docker,git,bash,linux,windows" />
 </p>
 
+## 🧑‍💻 About me:
+
+Hey there, I'm Kristiyan, a 19-year-old software engineer who's absolutely passionate about programming. Ever since I can remember, computers have fascinated me, and diving into the world of coding was a natural progression. I love exploring different programming languages and pushing the boundaries of what I can create with them.
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KristiyanHristov04&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KristiyanHristov04&theme=blueberry&hide_border=false)<br/>
